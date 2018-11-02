@@ -1,4 +1,4 @@
-# Fenwick-Tree
+# Fenwick-Tree > Segment Tree to detailled
 
 A Fenwick tree or BIT (Binary Indexed Tree) is a data structure that can efficiently calculate prefix sums in a table of numbers. The tree structure allows operations to be performed using only O(log n) node accesses.
 
